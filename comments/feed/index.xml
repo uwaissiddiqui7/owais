@@ -11,13 +11,27 @@
 	<atom:link href="https://www.owaiss.in/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.owaiss.in</link>
 	<description>#beingBlessed</description>
-	<lastBuildDate>Tue, 16 Aug 2022 13:09:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Aug 2022 15:31:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>
+		Comment on Hello world! by admin		</title>
+		<link>https://www.owaiss.in/hello-world/#comment-3</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2022 15:31:48 +0000</pubDate>
+		<guid isPermaLink="false">https://www.owaiss.in/?p=1#comment-3</guid>
+
+					<description><![CDATA[dash]]></description>
+			<content:encoded><![CDATA[<p>dash</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://www.owaiss.in/hello-world/#comment-1</link>
