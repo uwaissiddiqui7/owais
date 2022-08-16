@@ -5,18 +5,7 @@
 	<title>Log In &lsaquo; OWAIS ZAHEER &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-        <script>
-            /* <![CDATA[ */
-            var rcewpp = {
-                "ajax_url":"https://www.owaiss.in/wp-admin/admin-ajax.php",
-                "nonce": "fa04809dc5",
-                "home_url": "https://www.owaiss.in/",
-                "settings_icon": 'https://www.owaiss.in/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
-                "settings_hover_icon": 'https://www.owaiss.in/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
-            };
-            /* ]]\> */
-        </script>
-        <link rel="stylesheet" id="dashicons-css" href="https://www.owaiss.in/wp-includes/css/dashicons.min.css?ver=6.0.1" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.owaiss.in/wp-includes/css/dashicons.min.css?ver=6.0.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://www.owaiss.in/wp-includes/css/buttons.min.css?ver=6.0.1" media="all">
 <link rel="stylesheet" id="forms-css" href="https://www.owaiss.in/wp-admin/css/forms.min.css?ver=6.0.1" media="all">
 <link rel="stylesheet" id="l10n-css" href="https://www.owaiss.in/wp-admin/css/l10n.min.css?ver=6.0.1" media="all">
